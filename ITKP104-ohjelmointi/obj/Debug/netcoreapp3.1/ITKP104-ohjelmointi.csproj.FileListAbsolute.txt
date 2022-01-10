@@ -1,0 +1,13 @@
+C:\git\ITKP104-ohjelmointi\ITKP104-ohjelmointi\bin\Debug\netcoreapp3.1\ITKP104-ohjelmointi.exe
+C:\git\ITKP104-ohjelmointi\ITKP104-ohjelmointi\bin\Debug\netcoreapp3.1\ITKP104-ohjelmointi.deps.json
+C:\git\ITKP104-ohjelmointi\ITKP104-ohjelmointi\bin\Debug\netcoreapp3.1\ITKP104-ohjelmointi.runtimeconfig.json
+C:\git\ITKP104-ohjelmointi\ITKP104-ohjelmointi\bin\Debug\netcoreapp3.1\ITKP104-ohjelmointi.runtimeconfig.dev.json
+C:\git\ITKP104-ohjelmointi\ITKP104-ohjelmointi\bin\Debug\netcoreapp3.1\ITKP104-ohjelmointi.dll
+C:\git\ITKP104-ohjelmointi\ITKP104-ohjelmointi\bin\Debug\netcoreapp3.1\ITKP104-ohjelmointi.pdb
+C:\git\ITKP104-ohjelmointi\ITKP104-ohjelmointi\obj\Debug\netcoreapp3.1\ITKP104-ohjelmointi.csprojAssemblyReference.cache
+C:\git\ITKP104-ohjelmointi\ITKP104-ohjelmointi\obj\Debug\netcoreapp3.1\ITKP104-ohjelmointi.AssemblyInfoInputs.cache
+C:\git\ITKP104-ohjelmointi\ITKP104-ohjelmointi\obj\Debug\netcoreapp3.1\ITKP104-ohjelmointi.AssemblyInfo.cs
+C:\git\ITKP104-ohjelmointi\ITKP104-ohjelmointi\obj\Debug\netcoreapp3.1\ITKP104-ohjelmointi.csproj.CoreCompileInputs.cache
+C:\git\ITKP104-ohjelmointi\ITKP104-ohjelmointi\obj\Debug\netcoreapp3.1\ITKP104-ohjelmointi.dll
+C:\git\ITKP104-ohjelmointi\ITKP104-ohjelmointi\obj\Debug\netcoreapp3.1\ITKP104-ohjelmointi.pdb
+C:\git\ITKP104-ohjelmointi\ITKP104-ohjelmointi\obj\Debug\netcoreapp3.1\ITKP104-ohjelmointi.genruntimeconfig.cache
